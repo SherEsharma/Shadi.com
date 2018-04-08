@@ -1,0 +1,4 @@
+com\findasoulmate\configration\AppInitializer.class
+com\findasoulmate\controller\HomeController.class
+com\findasoulmate\controller\LoginController.class
+com\findasoulmate\configration\AppConfig.class

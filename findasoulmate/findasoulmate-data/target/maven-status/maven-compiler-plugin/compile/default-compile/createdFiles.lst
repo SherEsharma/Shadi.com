@@ -1,0 +1,12 @@
+com\findasoulmate\model\Registration.class
+com\findasoulmate\repository\ReliginRepository.class
+com\findasoulmate\utils\ConstantURL.class
+com\findasoulmate\utils\ConstantAction.class
+com\findasoulmate\repository\RegistrationRepository.class
+com\findasoulmate\utils\ConstantMessage.class
+com\findasoulmate\configration\SecurityConfiguration.class
+com\findasoulmate\model\MotherLanguage.class
+com\findasoulmate\utils\IConstant.class
+com\findasoulmate\repository\MotherLanguageRepository.class
+com\findasoulmate\model\Religion.class
+com\findasoulmate\configration\HibernateConfiguration.class

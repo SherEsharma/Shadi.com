@@ -1,0 +1,8 @@
+com\findasoulmate\service\ReliginService.class
+com\findasoulmate\service\RegistrationService.class
+com\findasoulmate\serviceImpl\ReliginServiceImpl.class
+com\findasoulmate\service\LoginService.class
+com\findasoulmate\serviceImpl\MotherLanguageServiceImpl.class
+com\findasoulmate\serviceImpl\RegistrationServiceImpl.class
+com\findasoulmate\service\MotherLanguageService.class
+com\findasoulmate\serviceImpl\LoginServiceImpl.class
